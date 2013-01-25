@@ -37,5 +37,5 @@ Gem::Specification.new do |s|
   s.add_dependency 'oj', '~> 2.0.0'
   s.add_dependency 'solve', '>= 0.4.0.rc1'
   s.add_dependency 'thor', '~> 0.17.0'
-  #s.add_dependency 'vagrant', '~> 1.0.5'
+  s.add_dependency 'vagrant', '~> 1.0.5'
 end
